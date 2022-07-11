@@ -1,7 +1,5 @@
 # REPOSITORIO 03
 
-~~                  ~~
-
 ***
 
-### Mi primer ejercicio con ramas
+Mi primer ejercicio con ramas
